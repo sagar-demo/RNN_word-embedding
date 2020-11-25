@@ -1,0 +1,25 @@
+1.sentences
+2.One hot represntation-----index from the dictonary
+3.onehot repre---------embedding layers keras to form embedding matrix
+4.embedding matrix
+vocb_size=10000,dimension=10
+
+
+
+
+                      man  women   child   king   queen 
+
+             gender   -1     1       0      -0.92   0.93
+
+
+             royal 
+
+
+             fruit
+              
+             good 
+
+
+             bad
+        
+             f=5
